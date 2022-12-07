@@ -2,7 +2,7 @@ from scipy.stats import yulesimon
 import numpy as np
 import matplotlib.pyplot as plt
 
-f = open('distribution.txt')
+f = open('distribution_help.txt')
 line = f.readline()
 while line:
     print (line),
