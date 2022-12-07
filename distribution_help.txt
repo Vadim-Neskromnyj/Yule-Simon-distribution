@@ -1,0 +1,7 @@
+The probability mass function for the `yulesimon` is:
+    .. math::
+        f(k) =  \alpha B(k, \alpha+1)
+    for :math:`k=1,2,3,...`, where :math:`\alpha>0`.
+    Here :math:`B` refers to the `scipy.special.beta` function.
+    The sampling of random variates is based on pg 553, Section 6.3 of [1]_.
+    Our notation maps to the referenced logic via :math:`\alpha=a-1`.
