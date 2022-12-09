@@ -1,0 +1,7 @@
+#The program needs libraries to be installed.
+#To install the library you need to enter the command 
+#"pip install <library name>" in CMD -command line interpreter or in the terminal in Visual Studio Code.
+#List of libraries:
+#scipy
+#numpy
+#matplotlib
